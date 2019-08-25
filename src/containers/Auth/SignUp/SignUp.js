@@ -31,7 +31,7 @@ const SignUpSchema = Yup.object().shape({
     .required('The email is required.'),
   password: Yup.string()
     .required('The passoword is required.')
-    .min(8, 'The password is too short.'),
+    .min(6, 'The password is too short.'),
   confirmPassword: Yup.string()
     .oneOf([Yup.ref('password'), null], `Password doesn't match`)
     .required('You need to confirm your password.'),

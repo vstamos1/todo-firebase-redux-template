@@ -44,6 +44,7 @@ const Menu = styled.div`
   transform: translateY(${props => (props.opened ? '0%' : '-100%')});
   transition: all 0.1s cubic-bezier(0.445, 0.05, 0.55, 0.95);
   display: none;
+  z-index: 10;
 
   @media ${props => props.theme.mediaQueries.smallest} {
     display: flex;

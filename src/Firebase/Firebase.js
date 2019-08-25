@@ -3,12 +3,13 @@ import 'firebase/firestore';
 import 'firebase/auth';
 
 const config = {
-  apiKey: process.env.REACT_APP_APIKEY,
-  authDomain: 'todos-auth.firebaseapp.com',
-  databaseURL: 'https://todos-auth.firebaseio.com',
-  projectId: 'todos-auth',
-  storageBucket: 'todos-auth.appspot.com',
-  messagingSenderId: '843182406370',
+  apiKey: process.env.REACT_APP_SECRET,
+  authDomain: "crossplatform-todo.firebaseapp.com",
+  databaseURL: "https://crossplatform-todo.firebaseio.com",
+  projectId: "crossplatform-todo",
+  storageBucket: "crossplatform-todo.appspot.com",
+  messagingSenderId: "274720957482",
+  appId: "1:274720957482:web:b47fdd973af51853"
 };
 
 firebase.initializeApp(config);
