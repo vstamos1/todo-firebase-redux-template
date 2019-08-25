@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/todo-firebase-redux-template/static/js/main.10b18083.chunk.js",
+    "main.js.map": "/todo-firebase-redux-template/static/js/main.10b18083.chunk.js.map",
+    "runtime~main.js": "/todo-firebase-redux-template/static/js/runtime~main.b27dc6e0.js",
+    "runtime~main.js.map": "/todo-firebase-redux-template/static/js/runtime~main.b27dc6e0.js.map",
+    "static/js/2.4f45b29b.chunk.js": "/todo-firebase-redux-template/static/js/2.4f45b29b.chunk.js",
+    "static/js/2.4f45b29b.chunk.js.map": "/todo-firebase-redux-template/static/js/2.4f45b29b.chunk.js.map",
+    "static/js/3.633b8cb0.chunk.js": "/todo-firebase-redux-template/static/js/3.633b8cb0.chunk.js",
+    "static/js/3.633b8cb0.chunk.js.map": "/todo-firebase-redux-template/static/js/3.633b8cb0.chunk.js.map",
+    "index.html": "/todo-firebase-redux-template/index.html",
+    "precache-manifest.d26f5f2849a6401c9f4d24d60bf1bb96.js": "/todo-firebase-redux-template/precache-manifest.d26f5f2849a6401c9f4d24d60bf1bb96.js",
+    "service-worker.js": "/todo-firebase-redux-template/service-worker.js"
+  }
+}
